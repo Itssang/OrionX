@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ItssangX/OrionX/main/Information/Logo.png" width="150" alt="OrionX Avatar"/>
+<img src="https://raw.githubusercontent.com/nghsang/OrionX/main/Information/Logo.png" width="150" alt="OrionX Avatar"/>
 
 # 〄 OrionX 〄
 
