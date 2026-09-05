@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/nghsang/OrionX/main/Information/Logo.png" width="150" alt="OrionX Avatar"/>
 
-# 〄 OrionX 〄
+# 〄 OrionX VN
 
 **Bot Discord Economy dành cho cộng đồng Việt Nam**
 
