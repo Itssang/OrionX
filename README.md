@@ -8,7 +8,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3AgHp9CXJP)
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItssangX/OrionX)
-[![Owner](https://img.shields.io/badge/Made%20in-itssang-DA251D?style=for-the-badge)](https://github.com/ItssangX)
+[![Owner](https://img.shields.io/badge/Made%20in-itssang-DA251D?style=for-the-badge)](https://github.com/nghsang)
 
 <img src="https://raw.githubusercontent.com/ItssangX/OrionX/main/OrionX%20Banner%20GIf.gif" width="600" alt="OrionX Banner"/>
 
@@ -18,7 +18,7 @@
 
 ## 📌 Giới thiệu
 
-**OrionX** là một Discord Bot đa năng được phát triển bởi **ItssangX**, được thiết kế để phục vụ cộng đồng Discord Việt Nam. Dự án được công khai mã nguồn với mong muốn các developer bot tại Việt Nam có thể học hỏi, cải tiến và cùng nhau phát triển ngành dev bot Discord ngày càng lớn mạnh hơn.
+**OrionX** là một Discord Bot đa năng được phát triển bởi **Nguyen Hoang Sang**, được thiết kế để phục vụ cộng đồng Discord Việt Nam. Dự án được công khai mã nguồn với mong muốn các developer bot tại Việt Nam có thể học hỏi, cải tiến và cùng nhau phát triển ngành dev bot Discord ngày càng lớn mạnh hơn.
 
 > 💡 **Mục tiêu:** Góp phần xây dựng một cộng đồng dev bot Discord Việt Nam vững mạnh — nơi mọi người có thể tự do fork, chỉnh sửa và phát triển theo ý muốn.
 
@@ -50,7 +50,7 @@
 **1. Clone repository**
 
 ```bash
-git clone https://github.com/ItssangX/OrionX.git
+git clone https://github.com/nghsang/OrionX.git
 cd OrionX
 ```
 
