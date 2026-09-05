@@ -7,7 +7,7 @@
 **Bot Discord Economy dành cho cộng đồng Việt Nam**
 
 [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3AgHp9CXJP)
-[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItssangX/OrionX)
+[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nghsang/OrionX)
 [![Owner](https://img.shields.io/badge/Made%20in-itssang-DA251D?style=for-the-badge)](https://github.com/nghsang)
 
 <img src="https://raw.githubusercontent.com/ItssangX/OrionX/main/OrionX%20Banner%20GIf.gif" width="600" alt="OrionX Banner"/>
@@ -192,7 +192,7 @@ Dự án này được phát hành theo giấy phép **MIT** — bạn hoàn to�
 
 **ItssangX**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ItssangX-181717?style=flat-square&logo=github)](https://github.com/ItssangX)
+[![GitHub](https://img.shields.io/badge/GitHub-ItssangX-181717?style=flat-square&logo=github)](https://github.com/nghsang)
 
 _"Hy vọng dự án này sẽ là bước đệm để cộng đồng dev bot Discord Việt Nam ngày càng phát triển mạnh mẽ hơn."_
 
@@ -206,10 +206,10 @@ Nếu dự án này có ích cho bạn, hãy để lại một ⭐ **Star** trê
 
 <div align="center">
 
-[![Star History](https://img.shields.io/github/stars/ItssangX/OrionX?style=social)](https://github.com/ItssangX/OrionX/stargazers)
+[![Star History](https://img.shields.io/github/stars/ItssangX/OrionX?style=social)](https://github.com/nghsang/OrionX/stargazers)
 
 **Cảm ơn bạn đã ghé thăm OrionX! 🚀**
 
-<img src="https://raw.githubusercontent.com/ItssangX/OrionX/main/Information/Logo.png" width="80" alt="OrionX"/>
+<img src="https://raw.githubusercontent.com/nghsang/OrionX/main/Information/Logo.png" width="80" alt="OrionX"/>
 
 </div>
