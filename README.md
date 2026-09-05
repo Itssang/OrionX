@@ -6,7 +6,7 @@
 
 **Bot Discord Economy dành cho cộng đồng Việt Nam**
 
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3AgHp9CXJP)
+[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/itssang)
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nghsang/OrionX)
 [![Owner](https://img.shields.io/badge/Made%20in-itssang-DA251D?style=for-the-badge)](https://github.com/nghsang)
 
