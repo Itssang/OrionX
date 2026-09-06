@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/Itssang/OrionX/main/Information/Logo.png](https://raw.githubusercontent.com/Itssang/OrionX/main/Information/Logo.png)" width="150" alt="OrionX Avatar" />
+  <img src="https://raw.githubusercontent.com/Itssang/OrionX/main/Information/Logo.png" width="150" alt="OrionX Avatar" />
 
   # 〄 OrionX VN — Bot Discord Economy dành cho cộng đồng Việt Nam
 
@@ -8,7 +8,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itssang/OrionX)
   [![Owner](https://img.shields.io/badge/Made%20in-Itssang-DA251D?style=for-the-badge)](https://github.com/Itssang)
 
-  <img src="[https://raw.githubusercontent.com/ItssangX/OrionX/main/OrionX%20Banner%20GIf.gif](https://raw.githubusercontent.com/ItssangX/OrionX/main/OrionX%20Banner%20GIf.gif)" width="600" alt="OrionX Banner" />
+  <img src="https://raw.githubusercontent.com/ItssangX/OrionX/main/OrionX%20Banner%20GIf.gif" width="600" alt="OrionX Banner" />
 </div>
 
 ---
