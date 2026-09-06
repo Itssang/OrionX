@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nghsang/OrionX/main/Information/Logo.png" width="150" alt="OrionX Avatar"/>
+<img src="https://raw.githubusercontent.com/Itssang/OrionX/main/Information/Logo.png" width="150" alt="OrionX Avatar"/>
 
-# 〄 OrionX VN
+# 〄 OrionX Discord Bot
 
 **Bot Discord Economy dành cho cộng đồng Việt Nam**
 
 [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/itssang)
-[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nghsang/OrionX)
-[![Owner](https://img.shields.io/badge/Made%20in-NGHSANG-DA251D?style=for-the-badge)](https://github.com/nghsang)
+[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itssang/OrionX)
+[![Owner](https://img.shields.io/badge/Made%20in-Itssang-DA251D?style=for-the-badge)](https://github.com/Itssang)
 
 <img src="https://raw.githubusercontent.com/ItssangX/OrionX/main/OrionX%20Banner%20GIf.gif" width="600" alt="OrionX Banner"/>
 
@@ -50,7 +50,7 @@
 **1. Clone repository**
 
 ```bash
-git clone https://github.com/nghsang/OrionX.git
+git clone https://github.com/Itssang/OrionX.git
 cd OrionX
 ```
 
@@ -112,7 +112,7 @@ OrionX/
 ## 💰 Hệ thống Xcoin
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nghsang/OrionX/main/Information/Xcoin.png" width="80" alt="Xcoin"/>
+  <img src="https://raw.githubusercontent.com/Itssang/OrionX/main/Information/Xcoin.png" width="80" alt="Xcoin"/>
 </div>
 
 **Xcoin** là đồng tiền ảo nội bộ của OrionX, cho phép người dùng:
@@ -190,9 +190,9 @@ Dự án này được phát hành theo giấy phép **MIT** — bạn hoàn to�
 
 <div align="center">
 
-**ItssangX** / **NGHSANG**
+**ItssangX** / **Itssang**
 
-[![GitHub](https://img.shields.io/badge/GitHub-NGHSANG-181717?style=flat-square&logo=github)](https://github.com/nghsang)
+[![GitHub](https://img.shields.io/badge/GitHub-Itssang-181717?style=flat-square&logo=github)](https://github.com/Itssang)
 
 _"Hy vọng dự án này sẽ là bước đệm để cộng đồng dev bot Discord Việt Nam ngày càng phát triển mạnh mẽ hơn."_
 
@@ -206,10 +206,10 @@ Nếu dự án này có ích cho bạn, hãy để lại một ⭐ **Star** trê
 
 <div align="center">
 
-[![Star History](https://img.shields.io/github/stars/nghsang/OrionX?style=social)](https://github.com/nghsang/OrionX/stargazers)
+[![Star History](https://img.shields.io/github/stars/Itssang/OrionX?style=social)](https://github.com/Itssang/OrionX/stargazers)
 
 **Cảm ơn bạn đã ghé thăm OrionX! 🚀**
 
-<img src="https://raw.githubusercontent.com/nghsang/OrionX/main/Information/Logo.png" width="80" alt="OrionX"/>
+<img src="https://raw.githubusercontent.com/Itssang/OrionX/main/Information/Logo.png" width="80" alt="OrionX"/>
 
 </div>
